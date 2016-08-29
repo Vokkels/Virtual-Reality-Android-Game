@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\Client\bin\Debug\Client.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\Client\bin\Debug\Client.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\Client\bin\Debug\Client.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\Client\bin\Debug\LAN_Networking.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\Client\bin\Debug\LAN_Networking.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\Client\obj\Debug\Client.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\Client\obj\Debug\Client.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\LAN_Networking\bin\Release\LAN_Networking.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\LAN_Networking\bin\Release\LAN_Networking.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\LAN_Networking\obj\Release\LAN_Networking.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\LAN_Networking\obj\Release\LAN_Networking.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\LAN_Networking\obj\Release\LAN_Networking.pdb

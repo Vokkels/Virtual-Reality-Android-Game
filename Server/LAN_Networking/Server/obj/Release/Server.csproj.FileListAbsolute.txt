@@ -1,0 +1,1 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\Server\bin\Release\Server.exe.config

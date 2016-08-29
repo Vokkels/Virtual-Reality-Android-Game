@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: LAN_Networking, Configuration: Debug Any CPU ------
+1>  LAN_Networking -> C:\Users\user\Documents\Visual Studio 2015\Projects\LAN_Networking\LAN_Networking\bin\Debug\LAN_Networking.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

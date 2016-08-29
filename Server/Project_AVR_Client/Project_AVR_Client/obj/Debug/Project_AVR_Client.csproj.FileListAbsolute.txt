@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Project_AVR_Client\Project_AVR_Client\bin\Debug\Project_AVR_Client.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Project_AVR_Client\Project_AVR_Client\bin\Debug\Project_AVR_Client.exe
+c:\users\user\documents\visual studio 2015\Projects\Project_AVR_Client\Project_AVR_Client\bin\Debug\Project_AVR_Client.pdb
+c:\users\user\documents\visual studio 2015\Projects\Project_AVR_Client\Project_AVR_Client\obj\Debug\Project_AVR_Client.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Project_AVR_Client\Project_AVR_Client\obj\Debug\Project_AVR_Client.exe
+c:\users\user\documents\visual studio 2015\Projects\Project_AVR_Client\Project_AVR_Client\obj\Debug\Project_AVR_Client.pdb

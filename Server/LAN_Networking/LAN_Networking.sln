@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAN_Networking", "LAN_Networking\LAN_Networking.csproj", "{EC30CB28-3233-440C-BD36-60D7E356C2BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{9BC33C0A-44BF-413B-A6EF-07BECBE4753C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F7B2E754-94FE-470E-A927-27931996B3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC30CB28-3233-440C-BD36-60D7E356C2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC30CB28-3233-440C-BD36-60D7E356C2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC30CB28-3233-440C-BD36-60D7E356C2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC30CB28-3233-440C-BD36-60D7E356C2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC33C0A-44BF-413B-A6EF-07BECBE4753C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC33C0A-44BF-413B-A6EF-07BECBE4753C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC33C0A-44BF-413B-A6EF-07BECBE4753C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC33C0A-44BF-413B-A6EF-07BECBE4753C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B2E754-94FE-470E-A927-27931996B3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B2E754-94FE-470E-A927-27931996B3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B2E754-94FE-470E-A927-27931996B3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B2E754-94FE-470E-A927-27931996B3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

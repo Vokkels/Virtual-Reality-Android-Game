@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Project AVR Server\Project AVR Server\bin\Debug\Project AVR Server.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Project AVR Server\Project AVR Server\bin\Debug\Project AVR Server.exe
+c:\users\user\documents\visual studio 2015\Projects\Project AVR Server\Project AVR Server\bin\Debug\Project AVR Server.pdb
+c:\users\user\documents\visual studio 2015\Projects\Project AVR Server\Project AVR Server\obj\Debug\Project AVR Server.exe
+c:\users\user\documents\visual studio 2015\Projects\Project AVR Server\Project AVR Server\obj\Debug\Project AVR Server.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Project AVR Server\Project AVR Server\obj\Debug\Project AVR Server.csprojResolveAssemblyReference.cache
